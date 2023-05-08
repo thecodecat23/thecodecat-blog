@@ -39,7 +39,7 @@ paginate_path: "blog/page:num"
 header_text: Unravel the Catventures of a Feline-Enthusiast Developer in the Tech World
 footer_text: Copyright 2017
 
-Header's image
+# Header's image
 header_feature_image: assets/img/header/thecodecat_header.jpg
 header_feature_image_responsive: true
 
