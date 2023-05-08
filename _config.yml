@@ -18,21 +18,34 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: TheCodeCat Blog
+email: thecodecat23@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  Welcome to TheCodeCat, where passion for technology, programming, and art intertwine to create a truly unique and immersive blog experience.
+  As your guide, I explore the dynamic realms of .NET, C#, Azure, AI, and generative art, sharing my insights, experiences, and knowledge to inspire and inform.
+  Join me on this exhilarating journey and stay ahead of the curve with thought-provoking articles, in-depth tutorials, and the latest tech news.
+baseurl: "/thecodecat-blog" # the subpath of your site, e.g. /blog
+url: "https://thecodecat23.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: thecodecat23
+github_username:  thecodecat23
+color_theme: auto
+
+# BLOG CONFIGURATION
+post_navigation: true
+paginate: 10
+paginate_path: "blog/page:num"
+
+# Footer and Header's text
+header_text: Unravel the Catventures of a Feline-Enthusiast Developer in the Tech World
+footer_text: Copyright 2017
+
+Header's image
+header_feature_image: assets/img/header/thecodecat_header.jpg
+header_feature_image_responsive: true
 
 # Build settings
 theme: type-on-strap
-plugins:
-  - jekyll-feed
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
