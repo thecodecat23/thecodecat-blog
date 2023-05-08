@@ -18,22 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# SITE CONFIGURATION
+baseurl: "/thecodecat-blog" # the subpath of your site, e.g. /blog
+url: "https://thecodecat23.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# THEME-SPECIFIC CONFIGURATION
 title: TheCodeCat Blog
-email: thecodecat23@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to TheCodeCat, where passion for technology, programming, and art intertwine to create a truly unique and immersive blog experience.
   As your guide, I explore the dynamic realms of .NET, C#, Azure, AI, and generative art, sharing my insights, experiences, and knowledge to inspire and inform.
   Join me on this exhilarating journey and stay ahead of the curve with thought-provoking articles, in-depth tutorials, and the latest tech news.
-baseurl: "/thecodecat-blog" # the subpath of your site, e.g. /blog
-url: "https://thecodecat23.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# USER INFO
+email: thecodecat23@gmail.com
 twitter_username: thecodecat23
 github_username:  thecodecat23
-color_theme: auto
-
-# BLOG CONFIGURATION
-post_navigation: true
-paginate: 10
-paginate_path: "blog/page:num"
 
 # Footer and Header's text
 header_text: Unravel the Catventures of a Feline-Enthusiast Developer in the Tech World
@@ -43,9 +42,23 @@ footer_text: Copyright 2017
 header_feature_image: assets/img/header/thecodecat_header.jpg
 header_feature_image_responsive: true
 
-# Build settings
-theme: type-on-strap
+# Blog
+post_navigation: true
+
+# Features
+# More in the _data folder for share buttons, author and language
+# For layout customization, go to the "_sass > base" folder, and check "_variables.scss"
+color_theme: auto # auto, dark or light
+
+# PAGINATION
+paginate: 5
+paginate_path: "/blog/page:num"
+
+# BUILD SETTINGS
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
+exclude: [".jekyll-cache", ".jekyll-metadata", ".idea", "vendor/*", "assets/node_modules/*"]
+
+theme: type-on-strap                                  # if using the theme as a jekyll theme gem
 
 # Exclude from processing.
 # The following items will not be processed, by default.
