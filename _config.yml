@@ -41,7 +41,7 @@ header_text: " "
 footer_text: Copyright @TheCodeCat 2023
 
 # Header's image
-header_feature_image: assets/img/header/thecodecat_header.png
+header_feature_image: assets/img/header/thecodecat-header-big.png
 header_feature_image_responsive: true
 
 # Blog
