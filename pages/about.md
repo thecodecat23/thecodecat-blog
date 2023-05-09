@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/about/about.png"
+feature-img: "assets/img/about/about-header.png"
 ---
 
 ## Hello! I'm TheCodeCat
