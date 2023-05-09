@@ -31,4 +31,4 @@ Check out my Facebook page, [TheCodeCat](https://www.facebook.com/profile.php?id
 
 And for all things code, feel free to follow me on [GitHub](https://github.com/thecodecat23).
 
-![TheCodeCat studio](assets/img/about/about.png)
+![TheCodeCat studio](../assets/img/about/about.png)
