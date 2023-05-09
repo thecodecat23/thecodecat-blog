@@ -23,7 +23,7 @@ baseurl: "/thecodecat-blog" # the subpath of your site, e.g. /blog
 url: "https://thecodecat23.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # THEME-SPECIFIC CONFIGURATION
-title: TheCodeCat Blog
+title: TheCodeCat
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to TheCodeCat, where passion for technology, programming, and art intertwine to create a truly unique and immersive blog experience.
   As your guide, I explore the dynamic realms of .NET, C#, Azure, AI, and generative art, sharing my insights, experiences, and knowledge to inspire and inform.
