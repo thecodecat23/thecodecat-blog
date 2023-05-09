@@ -5,8 +5,6 @@ permalink: /about/
 feature-img: "assets/img/about/about.png"
 ---
 
-# About
-
 ## Hello! I'm TheCodeCat
 
 I'm a quirky nerd developer from Italy who's been coding for 15 years now. I've been through the ups and downs of programming, from the early days of VB6 to the latest .NET framework. I've worked on all sorts of projects, from desktop applications to libraries, web applications, and more.
@@ -32,3 +30,7 @@ Follow me on Twitter [@thecodecat23](https://twitter.com/thecodecat23) for the l
 Check out my Facebook page, [TheCodeCat](https://www.facebook.com/profile.php?id=100090223107344), to stay connected and join the community of tech enthusiasts.
 
 And for all things code, feel free to follow me on [GitHub](https://github.com/thecodecat23).
+
+<p align="center">
+  <img src="assets/img/about/about.png" alt="TheCodeCat Studio">
+</p>
