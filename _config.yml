@@ -28,6 +28,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to TheCodeCat, where passion for technology, programming, and art intertwine to create a truly unique and immersive blog experience.
   As your guide, I explore the dynamic realms of .NET, C#, Azure, AI, and generative art, sharing my insights, experiences, and knowledge to inspire and inform.
   Join me on this exhilarating journey and stay ahead of the curve with thought-provoking articles, in-depth tutorials, and the latest tech news.
+avatar: assets/img/avatar.png
+favicon: assets/favicon.ico 
 
 # USER INFO
 email: thecodecat23@gmail.com
