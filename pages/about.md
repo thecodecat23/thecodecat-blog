@@ -32,19 +32,4 @@ Follow me on Twitter [@thecodecat23](https://twitter.com/thecodecat23) for the l
 
 Check out my Facebook page, [TheCodeCat](https://www.facebook.com/profile.php?id=100090223107344), to stay connected and join the community of tech enthusiasts.
 
-And for all things code, feel free to follow me on Github at [https://github.com/catnip86](https://github.com/catnip86).
-
-<p>
-  <a href="mailto:thecodecat23@gmail.com">
-    <i class="fas fa-envelope fa-2x"></i>
-  </a>
-  <a href="https://twitter.com/thecodecat23">
-    <i class="fab fa-twitter fa-2x"></i>
-  </a>
-  <a href="https://github.com/thecodecat23">
-    <i class="fab fa-github fa-2x"></i>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100090223107344">
-    <i class="fab fa-facebook fa-2x"></i>
-  </a>
-</p>
+And for all things code, feel free to follow me on [GitHub](https://github.com/thecodecat23).
