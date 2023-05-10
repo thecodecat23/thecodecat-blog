@@ -29,5 +29,16 @@
   "bugs": {
     "url": "https://github.com/thecodecat23/thecodecat-blog/issues"
   },
-  "homepage": "https://github.com/thecodecat23/thecodecat-blog#readme"
+  "homepage": "https://github.com/thecodecat23/thecodecat-blog#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-less": "^5.0.0",
+    "gulp-replace": "^1.1.4",
+    "gulp-responsive": "^3.0.1",
+    "gulp-uglify-es": "^3.0.0",
+    "gulp-webp": "^4.0.1"
+  }
 }
