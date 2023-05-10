@@ -1,0 +1,33 @@
+{
+  "name": "thecodecat-blog",
+  "version": "1.0.0",
+  "description": "TheCodeCat Blog",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecodecat23/thecodecat-blog.git"
+  },
+  "keywords": [
+    "thecodecat",
+    "thecodecat23",
+    "blog",
+    "azure",
+    "csharp",
+    "dotnet",
+    "tech",
+    "AI",
+    "AI",
+    "art",
+    "procedural",
+    "art"
+  ],
+  "author": "TheCodeCat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thecodecat23/thecodecat-blog/issues"
+  },
+  "homepage": "https://github.com/thecodecat23/thecodecat-blog#readme"
+}
