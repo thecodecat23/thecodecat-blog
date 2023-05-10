@@ -52,4 +52,6 @@ My journey led me to discover GitHub Pages, a free hosting service for static we
 
 ## Conclusion: Learning the Importance of the KISS Principle
 
+{% include aligner.html images="kiss-cat.png" %}
+
 My blog creation and deployment odyssey taught me the importance of adaptability, perseverance, and the KISS principle. By pivoting from Orchard CMS to a static site generator, I learned to focus on my ultimate goal: delivering my blog. Through my trials with Azure, Scaleway, and DigitalOcean, I gained valuable experience and a deeper understanding of hosting options. In the end, my dedication to learning and my willingness to change course led me to a solution that met my needs. Now, with a Jekyll-powered blog hosted on GitHub Pages, I can finally share my work and continue my learning journey, as I embrace the artistic and innovative spirit of "TheCodeCat".
