@@ -46,6 +46,7 @@ header_feature_image_responsive: false
 
 # Blog
 post_navigation: true
+excerpt: true
 
 # Features
 # More in the _data folder for share buttons, author and language
