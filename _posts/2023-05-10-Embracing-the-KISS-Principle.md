@@ -9,40 +9,36 @@ categories: WebDevelopment
 excerpt_separator: <!--more-->
 ---
 
-# My Blog Creation and Deployment Odyssey
-
-## Introduction: The Unexpected Complexity of Blog Creation
-
 Starting a blog might seem like a straightforward task, but there are numerous decisions and challenges to overcome. In my quest to create a blog showcasing my work as a developer, I embarked on a month-long journey filled with hurdles and learning experiences. In this article, I will detail my adventures with Orchard CMS, Azure, Scaleway, and DigitalOcean, ultimately leading me to embrace the KISS (Keep It Simple, Stupid) principle and adopt a different approach.
 <!--more-->
 
 ## The Orchard CMS Adventure: Excitement and Challenges
 
-![Orchard CMS logo](../assets/img/orchard-core-logo.png)
+{% include aligner.html images="orchard-core-logo.png" %}
 
 Orchard CMS, an open-source content management system built on ASP.NET MVC, appeared to be the perfect choice for my blog. As a C# developer, I was familiar with the technology stack and eager to dive in. I spent several weeks researching, designing, and implementing my blog using Orchard CMS. While I enjoyed the process and appreciated the platform's flexibility and extensibility, I soon discovered that the deployment process would present numerous challenges.
 
 ## Azure Woes: The Costly Cloud Experience
 
-![Azure logo](azure_image.jpg)
+{% include aligner.html images="azure-logo.png" %}
 
 Initially, I chose Azure, Microsoft's cloud platform, for hosting my Orchard CMS blog. It seemed like a natural fit, given Orchard CMS's foundation on the Microsoft stack. However, I quickly found that Azure's pricing model was too expensive for my needs. Despite the platform's extensive array of features and services, I couldn't justify the cost for a simple blog. Disappointed, I decided to explore alternative hosting options.
 
 ## Scaleway Struggles: Affordable Yet Inaccessible
 
-![Scaleway logo or SSL issue representation](../assets/img/scaleway-logo.png)
+{% include aligner.html images="scaleway-logo.png" %}
 
 Scaleway, a cloud provider known for affordable pricing, caught my attention next. Excited about cutting costs, I began setting up my blog on a Scaleway container. Regrettably, I encountered SSL issues that prevented secure connections to my container. Despite my dedication and countless hours spent troubleshooting, I couldn't resolve the problem. Frustrated, I realized it was time to consider another hosting provider.
 
 ## DigitalOcean Dilemmas: A Developer-Friendly Quagmire
 
-![DigitalOcean logo](../assets/img/scaleway-logo/digital-ocean-logo.png)
+{% include aligner.html images="digital-ocean-logo.png" %}
 
 DigitalOcean, a popular cloud provider with a developer-friendly reputation, seemed like an ideal solution. Eager to deploy my Orchard CMS blog on their platform, I faced a new set of challenges. Deployment issues plagued my efforts, and I found myself spending more time fixing problems than focusing on my actual blog content. It was at this point that I began to question my technology stack choice and consider alternatives.
 
 ## The Static Site Revelation: A Simpler Path
 
-![Jekyll logo vs Hugo logo](../assets/img/scaleway-logo/hugo-vs-jekyll.jpg)
+{% include aligner.html images="hugo-vs-jekyll.jpg" %}
 
 Throughout this journey, I remained committed to learning and adapting to new solutions. When the obstacles of deploying a dynamic CMS-based blog became insurmountable, I reassessed my priorities. My primary goal was to deliver a blog, and I realized that I needed a simpler, more practical approach.
 
@@ -50,7 +46,7 @@ My research led me to the world of static site generators. By generating a stati
 
 ## The GitHub Pages Triumph: A Free and Elegant Solution
 
-![GitHub Pages logo](../assets/img/scaleway-logo/github-pages-logo.png)
+{% include aligner.html images="github-pages-logo.png" %}
 
 My journey led me to discover GitHub Pages, a free hosting service for static websites. By using Jekyll and hosting my blog on GitHub Pages, I could eliminate hosting costs while enjoying a simplified deployment process. This cost-effective and user-friendly solution aligned perfectly with the KISS principle I had come to embrace.
 
