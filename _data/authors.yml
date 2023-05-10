@@ -1,4 +1,4 @@
 thecodecat:
   name: "TheCodeCat"
-  avatar: "../assets/img/avatar.png"
+  avatar: "assets/img/avatar.png"
   url: "https://thecodecat.it"
