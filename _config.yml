@@ -56,6 +56,10 @@ color_theme: auto # auto, dark or light
 paginate: 5
 paginate_path: "/blog/page:num"
 
+# GOOGLE ANALYTICS
+google_analytics: UA-267984127-1
+cookie_consent: true
+
 # BUILD SETTINGS
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
 exclude: [".jekyll-cache", ".jekyll-metadata", ".idea", "vendor/*", "assets/node_modules/*"]
