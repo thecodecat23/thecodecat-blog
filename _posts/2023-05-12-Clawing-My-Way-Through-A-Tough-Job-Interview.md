@@ -5,7 +5,7 @@ author: thecodecat
 feature-img: "assets/img/feature-img/black-cat-bad-interview.png"
 thumbnail: "assets/img/thumbnails/feature-img/black-cat-bad-interview.png"
 tags: [Job Interview, Self-Improvement, Programming, Learning]
-categories: [Career, Learning, Programming]
+categories: Learning
 excerpt_separator: <!--more-->
 ---
 
