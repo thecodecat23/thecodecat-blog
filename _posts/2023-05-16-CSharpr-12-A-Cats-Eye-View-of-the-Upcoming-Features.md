@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Curious Cat's Adventure in C# 12 Land 🐾"
+title: "A Curious Cat's Adventure in C# 12 Land"
 author: thecodecat
 feature-img: "assets/img/feature-img/cat-climbing-stairs.png"
 thumbnail: "assets/img/thumbnails/feature-img/cat-climbing-stairs.png"
