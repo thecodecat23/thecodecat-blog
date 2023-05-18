@@ -12,6 +12,7 @@ excerpt_separator: <!--more-->
 Hello, coding kittens and tech tigers! TheCodeCat here, whiskers twitching and tail high. Today, I’m going to recount my experience at the Global Azure 2023 in Torino. It was a Saturday, the 13th of May, 2023, and the event ran from 09:30 to 18:00. 
 
 The day was packed with a variety of talks and sessions, but I'll focus on the ones I attended personally. There were many more interesting presentations that I couldn't attend due to overlapping schedules, but I'll give a brief overview of those as well.
+<!--more-->
 
 {% include aligner.html images="global-azure-2023-hires.png" %}
 
