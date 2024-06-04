@@ -4,3 +4,4 @@ _site
 .jekyll-metadata
 vendor
 assets/node_modules
+node_modules
