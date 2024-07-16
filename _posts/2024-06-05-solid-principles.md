@@ -3,10 +3,10 @@ layout: post
 title: "SOLID Principles: A Quick Interview Preparation Guide"
 author: thecodecat
 feature-img: "assets/img/feature-img/solid-principles.png"
-thumbnail: "assets/img/thumbnails/feature-img/solid-principles.png"
+thumbnail: "assets/img/thumbnails/feature-img/solid-principles.jpeg"
 tags: [SOLID, OOP, Coding, Programming, InterviewPreparation, CodingTips]
 categories: [Principles, Interviews, OOP]
-excerpt_separator: <!--more-->.
+excerpt_separator: <!--more-->
 ---
 
 Hello, coding kittens and tech tigers! TheCodeCat here, whiskers twitching and tail high. Today, we're going to refresh our knowledge on the SOLID principles. Whether you're familiar with these concepts or preparing for an interview, this guide will help you recall the specifics and sharpen your coding claws. 
