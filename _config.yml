@@ -47,6 +47,9 @@ header_feature_image_responsive: true
 post_navigation: true
 excerpt: true
 
+# Include future posts
+future: true
+
 # Features
 # More in the _data folder for share buttons, author and language
 # For layout customization, go to the "_sass > base" folder, and check "_variables.scss"
