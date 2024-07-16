@@ -3,7 +3,7 @@ layout: post
 title: "SOLID Principles: A Quick Interview Preparation Guide"
 author: thecodecat
 feature-img: "assets/img/feature-img/solid-principles.png"
-thumbnail: "assets/img/thumbnails/feature-img/solid-principles.jpeg"
+thumbnail: "assets/img/thumbnails/feature-img/solid-principles.png"
 tags: [SOLID, OOP, Coding, Programming, InterviewPreparation, CodingTips]
 categories: [Principles, Interviews, OOP]
 excerpt_separator: <!--more-->
