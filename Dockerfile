@@ -20,26 +20,18 @@ RUN apk update && apk add --no-cache \
     ruby-dev \
     linux-headers
 
-# Copy Gemfile and Gemfile.lock if exists
-USER root
-COPY Gemfile* ./
+# Copy Gemfile and package.json together for better caching
+COPY Gemfile Gemfile.lock package.json package-lock.json* ./
 
-# Ensure permissions for the Gemfile.lock
-RUN touch Gemfile.lock && chown jekyll:jekyll Gemfile.lock
-
-# Install bundler and Ruby dependencies as root
-RUN gem install bundler -v 2.4.12 && bundle _2.4.12_ install
-
-# Copy the package.json and package-lock.json files as root
-COPY package.json package-lock.json* ./
-
-# Install npm dependencies as root
-RUN npm install --production
+# Install bundler and Ruby dependencies, as well as npm dependencies
+RUN gem install bundler -v 2.4.12 && \
+    bundle _2.4.12_ install && \
+    npm install --production
 
 # Fix permissions for the Jekyll user
 RUN chown -R jekyll:jekyll /usr/src/app
 
-# Switch back to the jekyll user
+# Switch to the jekyll user
 USER jekyll
 
 # Copy the rest of the application code
@@ -49,4 +41,4 @@ COPY . .
 EXPOSE 4000
 
 # Run Jekyll in production mode
-CMD ["jekyll", "serve", "--host", "0.0.0.0"]
+CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0"]
