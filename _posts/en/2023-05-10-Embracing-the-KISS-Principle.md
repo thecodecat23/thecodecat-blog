@@ -7,6 +7,7 @@ thumbnail: "assets/img/thumbnails/feature-img/developer_cat.png"
 tags: [KISS principle, blog creation, Orchard CMS, Azure, Scaleway, DigitalOcean, static site generators, Jekyll, GitHub Pages, web development, hosting]
 categories: WebDevelopment
 excerpt_separator: <!--more-->
+lang: en
 ---
 
 Starting a blog might seem like a straightforward task, but there are numerous decisions and challenges to overcome. In my quest to create a blog showcasing my work as a developer, I embarked on a month-long journey filled with hurdles and learning experiences. In this article, I will detail my adventures with Orchard CMS, Azure, Scaleway, and DigitalOcean, ultimately leading me to embrace the KISS (Keep It Simple, Stupid) principle and adopt a different approach.

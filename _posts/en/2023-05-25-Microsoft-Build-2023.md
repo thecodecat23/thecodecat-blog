@@ -7,6 +7,7 @@ thumbnail: "assets/img/thumbnails/feature-img/microsoft-build-2023.png"
 tags: [Microsoft, Microsoft Build, Technology, Innovation, AI, Azure, Events]
 categories: [Events]
 excerpt_separator: <!--more-->
+lang: en
 ---
 
 Once upon a time, in a world not so different from ours, a tech giant named Microsoft held its annual flagship event, Microsoft Build 2023. From May 23 to 25, this digital realm was abuzz with the hum of innovation, the spark of creativity, and the promise of a future shaped by the hands of developers. It was like a grand cat show, where the most innovative and creative felines showcased their unique talents and abilities.

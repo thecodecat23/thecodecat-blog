@@ -7,6 +7,7 @@ thumbnail: "assets/img/thumbnails/feature-img/cat-climbing-stairs.png"
 tags: [C#, .NET, Visual Studio, Coding, Programming]
 categories: [CSharp]
 excerpt_separator: <!--more-->
+lang: en
 ---
 
 Hello fellow coding adventurers! Imagine being a cat, full of curiosity, exploring the nooks and crannies of a house. As **"The CodeCat,"** that's how I feel, prowling through the vast landscape of **C# 12**, uncovering its hidden treasures. 

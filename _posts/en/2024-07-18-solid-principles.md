@@ -7,6 +7,7 @@ thumbnail: "assets/img/thumbnails/feature-img/solid-principles.png"
 tags: [SOLID, OOP, Coding, Programming, InterviewPreparation, CodingTips]
 categories: [Principles, Interviews, OOP]
 excerpt_separator: <!--more-->
+lang: en
 ---
 
 Hello, coding kittens and tech tigers! TheCodeCat here, whiskers twitching and tail high. Today, we're going to refresh our knowledge on the SOLID principles. Whether you're familiar with these concepts or preparing for an interview, this guide will help you recall the specifics and sharpen your coding claws. 

@@ -7,6 +7,7 @@ thumbnail: "assets/img/thumbnails/feature-img/black-cat-bad-interview.png"
 tags: [Job Interview, Self-Improvement, Programming, Learning]
 categories: Learning
 excerpt_separator: <!--more-->
+lang: en
 ---
 
 Hello, coding kittens and tech tigers! TheCodeCat here, whiskers twitching and tail high. Today, we're about to embark on a journey of **fur-titude** and **resilience**. I'll be recounting a tale that had me **fur-ustrated**, but eventually led to some serious **purr-spective**.

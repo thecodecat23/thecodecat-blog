@@ -7,6 +7,7 @@ thumbnail: "assets/img/thumbnails/feature-img/tech-cat-crowd.png"
 tags: [Azure,  Event, Meetup, Global Azure]
 categories: [Events]
 excerpt_separator: <!--more-->
+lang: en
 ---
 
 Hello, coding kittens and tech tigers! TheCodeCat here, whiskers twitching and tail high. Today, I’m going to recount my experience at the Global Azure 2023 in Torino. It was a Saturday, the 13th of May, 2023, and the event ran from 09:30 to 18:00. 

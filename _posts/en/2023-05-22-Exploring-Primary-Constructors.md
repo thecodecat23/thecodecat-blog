@@ -7,6 +7,7 @@ thumbnail: "assets/img/thumbnails/feature-img/primary-constructors.png"
 tags: [C#, .NET, Visual Studio, Coding, Programming, PrimaryConstructors, CodingTips]
 categories: [CSharp]
 excerpt_separator: <!--more-->
+lang: en
 ---
 
 Hello, coding kittens and tech tigers! TheCodeCat here, whiskers twitching and tail high. Today, we're going to explore a new feature that's currently under proposal and discussion in the C# world - the concept of **primary constructors**. 

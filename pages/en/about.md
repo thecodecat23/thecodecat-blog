@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 feature-img: "assets/img/about/about-header.png"
+lang: en
 ---
 
 ## Hello! I'm TheCodeCat
