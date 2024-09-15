@@ -9,6 +9,7 @@
     "gulp-replace": "^1.1.4",
     "gulp-responsive": "^3.0.1",
     "gulp-uglify-es": "^3.0.0",
-    "gulp-webp": "^5.0.0"
+    "gulp-webp": "^5.0.0",
+    "sharp": "^0.29.3"
   }
 }
