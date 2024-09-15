@@ -78,8 +78,13 @@ languages:
 ## Default Language
 default_lang: en
 
+## Polyglot options
+exclude_from_localization: ["javascript", "images", "css", "public"]
+parallel_localization: true
+lang_from_path: true
+
 ## Permalink (URL template)
-permalink: /:lang/:categories/:title/
+permalink: pretty
 
 # Exclude from processing.
 # The following items will not be processed, by default.
