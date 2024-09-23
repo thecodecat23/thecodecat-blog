@@ -71,17 +71,15 @@ exclude: [".jekyll-cache", ".jekyll-metadata", ".idea", "vendor/*", "assets/node
 remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
 
 ## Languages
-languages:
-  - en
-  - it
+languages: ["en", "it"]
 
 ## Default Language
-default_lang: en
+default_lang: "en"
 
 ## Polyglot options
 exclude_from_localization: ["javascript", "images", "css", "public"]
-parallel_localization: true
-lang_from_path: true
+parallel_localization: false
+lang_from_path: false
 
 ## Permalink (URL template)
 permalink: pretty

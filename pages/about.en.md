@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-permalink: /about/
 feature-img: "assets/img/about/about-header.png"
+permalink: about/
 lang: en
 ---
 
